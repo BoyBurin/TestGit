@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 eaeklfHello it's me can you hear me
 hihi
 
+=======
+Hello new branch
+>>>>>>> 35dbe46be5bdcb28c07c58f16b7909016b21b874
